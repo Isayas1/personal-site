@@ -1,0 +1,41 @@
+*{
+  background-color: #8ED6FF;
+}
+
+img{
+    height: 150px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: thick;
+  width: 10%;
+}
+
+.secondaryBackground{
+  background-color: white;
+}
+
+h1{
+  color: #1c819e;
+}
+
+h3{
+  color: #1c819e;
+}
+
+img{
+  border-radius: 100%;
+}
+
+
+a:hover{
+  font-weight: bold;
+  color: orange;
+}
+
+.img1{
+  border-radius: 75%;
+}
